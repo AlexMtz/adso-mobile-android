@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">ADSO</string>
+    <!-- Default strings -->
+    <string name="title_section">Section title</string>
+    <string name="description_section">This is a brief description of the section.</string>
+    <string name="action_button">Editar</string>
+
+    <!-- Sections -->
+    <string name="general_section">General</string>
+    <string name="general_description_section">Para solicitar alguna oportunidad de empleo, es necesario nos platiques poquito acerca de tí.</string>
+    <string name="documentation_section">Documentación</string>
+    <string name="documentation_description_section">Seguro los empleadores querran contactarte. Indicales a donde.</string>
+    <string name="studies_section">Estudios Realizados</string>
+    <string name="studies_descripcion_section">Seguro te preparaste para encontrar el empleo ideal. Sería interesante saber más de esa preparación.</string>
+    <string name="current_studies_section">Estudios Actuales</string>
+    <string name="current_studies_description_section">¿Actualmente estudias?. ¿Dónde?.</string>
+    <string name="knowledge_skills_sections">Conocimientos &amp; Habilidades</string>
+    <string name="knowledge_skills_description_sections">Platicanos que herramientas, máquinas, software o equipos has utilizado.</string>
+    <string name="job_experience_section">Experiencia Laboral</string>
+    <string name="job_experience_description_section">¿Has trabajado antes?. Cuéntanos donde.</string>
+    <string name="reference_section">Referencias</string>
+    <string name="reference_description_section">A quien podemos preguntar por tí.</string>
 </resources>
